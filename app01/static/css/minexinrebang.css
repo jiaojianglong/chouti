@@ -1,0 +1,158 @@
+body{
+    background: #eee;
+}
+.b-left .bang{
+    padding-top:25px;
+    font-size: 14px;
+    color:#777;
+    margin-bottom: 20px;
+}
+.b-left .choise{
+
+}
+.b-left .choise ul{
+    padding:0;
+}
+.b-left .choise li{
+    float:left;
+}
+.b-left .choise li a{
+    display: inline-block;
+    width:103px;
+    height:43px;
+    border-top:1px solid #dbe6f2;
+    border-left:1px solid #dbe6f2;
+    border-bottom: 1px solid #dbe6f2;
+    line-height: 43px;
+    font-size: 14px;
+    color:#369;
+    text-align: center;
+}
+.b-left .choise li .on{
+    border-bottom:none;
+    color:#333;
+}
+.b-left .choise li .set-line{
+    width:210px;
+    height:44px;
+    border-bottom: 1px solid #dbe6f2;
+    border-left:1px solid #dbe6f2;
+}
+.b-right .user-massage .top{
+    width:100%;
+    border:1px solid #ccdcef;
+    margin-top:10px;
+    border-radius: 5px;
+    background-color: #e6ecf3;
+}
+.b-right .user-massage .top img{
+    display: inline-block;
+    width:56px;
+    height:56px;
+    padding:3px;
+    border:1px solid #ccc;
+    margin:13px;
+    float:left;
+}
+.b-right .user-massage .top .right{
+    display: inline-block;
+    float:left;
+    margin-left:10px;
+    margin-top:15px;
+    width:190px;
+}
+.b-right .user-massage .top .right .name{
+    display: inline-block;
+    float:left;
+    color:#123056;
+    font-size: 14px;
+    font-weight: 700;
+}
+.b-right .user-massage .top .right .time{
+    display: inline-block;
+    float: right;
+    width:31px;
+    height:15px;
+    border-radius:8px 0;
+    background-color: #689aca;
+    color:#fff;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: center;
+    margin:3px 11px;
+}
+.b-right .user-massage .top .right .bianji{
+    display: inline-block;
+    float: right;
+    font-size: 11px;
+    margin:5px;
+    color:#689aca;
+}
+.b-right .user-massage .top .right .icon{
+    display: inline-block;
+    float: right;
+    width:11px;
+    height:11px;
+    background-image: url(../images/span_bj.png);
+    margin-top:5px;
+}
+.b-right .user-massage .top .right .second{
+    font-size: 12px;
+    color:#333;
+    margin:5px 0;
+}
+.b-right .user-massage .top .right .second .fen{
+    display: inline-block;
+    margin:0 3px;
+}
+.b-right .user-massage .top .right .third span{
+    font-size:12px;
+}
+.b-right .user-massage .mid{
+    width:100%;
+    border:1px solid #ccdcef;
+    margin-top:10px;
+    border-radius: 5px;
+    background-color: #e6ecf3;
+    text-align: center;
+}
+.b-right .user-massage .mid .mid1{
+    margin:5px 16px;
+}
+.b-right .user-massage .mid .mid2{
+    display: inline-block;
+    float: left;
+    width:65px;
+    height:50px;
+    line-height: 25px;
+}
+.b-right .user-massage .mid .mid2 span{
+    display: block;
+    font-size: 20px;
+    color:#369;
+    font-weight: 900;
+}
+.b-right .user-massage .mid .mid2 a{
+    font-size: 13px;
+    color:#333;
+}
+.b-right .user-massage .mid .hr{
+    width:0;
+    height:30px;
+    display: inline-block;
+    float: left;
+    border:none;
+    border-left:1px solid #ccdcef;
+}
+.b-right .user-massage .foot .guanzhu{
+    font-size: 12px;
+    margin: 20px 0;
+}
+.b-right .user-massage .foot .fen{
+    font-size: 12px;
+    margin: 20px 0;
+}
+.b-right .user-massage .foot .shu{
+    color:#015e98;
+}
